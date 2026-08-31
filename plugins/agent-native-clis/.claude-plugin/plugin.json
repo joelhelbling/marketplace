@@ -1,0 +1,9 @@
+{
+  "name": "agent-native-clis",
+  "description": "Skill for designing, building, and reviewing command-line tools that AI agents will invoke — ten principles for agent-native CLIs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Joel Helbling"
+  },
+  "keywords": ["cli", "agents", "design", "skills"]
+}
