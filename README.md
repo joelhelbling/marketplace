@@ -38,6 +38,16 @@ from there.
 /plugin install kkullm@joelhelbling
 ```
 
+### tabb
+
+Manage Chrome browser tabs from Claude Code via the
+[tabb](https://github.com/joelhelbling/tabb) MCP server. Hosted in its own
+repo; this marketplace links to it.
+
+```
+/plugin install tabb@joelhelbling
+```
+
 ## Layout
 
 ```

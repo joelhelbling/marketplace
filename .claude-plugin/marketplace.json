@@ -32,6 +32,20 @@
         "url": "https://github.com/joelhelbling/kkullm.git",
         "path": "plugins/kkullm"
       }
+    },
+    {
+      "name": "tabb",
+      "description": "Manage Chrome browser tabs from Claude Code via the tabb MCP server.",
+      "author": {
+        "name": "Joel Helbling"
+      },
+      "category": "development",
+      "homepage": "https://github.com/joelhelbling/tabb",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/joelhelbling/tabb.git",
+        "path": "plugins/tabb"
+      }
     }
   ]
 }
