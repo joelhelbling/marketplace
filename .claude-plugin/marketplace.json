@@ -18,6 +18,20 @@
         "name": "Joel Helbling"
       },
       "keywords": ["cli", "agents", "design", "skills"]
+    },
+    {
+      "name": "kkullm",
+      "description": "Skills for driving the kkullm CLI and board, the blackboard-pattern agent-orchestration system.",
+      "author": {
+        "name": "Joel Helbling"
+      },
+      "category": "development",
+      "homepage": "https://github.com/joelhelbling/kkullm",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/joelhelbling/kkullm.git",
+        "path": "plugins/kkullm"
+      }
     }
   ]
 }

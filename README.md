@@ -27,6 +27,17 @@ Useful when designing a new CLI, extending an existing one, or auditing a
 CLI for agent-friendliness (hangs on prompts, unparseable output, duplicate
 creates, token-heavy responses).
 
+### kkullm
+
+Skills for driving the [kkullm](https://github.com/joelhelbling/kkullm) CLI
+and board — a blackboard-pattern agent-orchestration system. Hosted in its
+own repo; this marketplace links to it, so installs always fetch the latest
+from there.
+
+```
+/plugin install kkullm@joelhelbling
+```
+
 ## Layout
 
 ```
