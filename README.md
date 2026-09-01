@@ -40,12 +40,13 @@ from there.
 
 ### axial
 
-Axial discipline for agentic software development from the
-[axial-method](https://github.com/joelhelbling/axial-method) repo: work one
+Axial discipline for agentic software development from
+[The Axial Method](https://axially.joelhelbling.com): work one
 axis at a time, each defined by its goal, its invariants, and its required
 artifacts. Includes the core method plus an issue-through-PR sequence of
-axes (red, green, refactor, pull-request). Hosted in its own repo; this
-marketplace links to it.
+axes (red, green, refactor, pull-request). Hosted in its own
+[repo](https://github.com/joelhelbling/axial-method); this marketplace
+links to it.
 
 ```
 /plugin install axial@joelhelbling
